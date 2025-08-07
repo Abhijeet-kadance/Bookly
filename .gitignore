@@ -33,3 +33,5 @@ Thumbs.db
 
 # FastAPI / Uvicorn specific
 .uvicorn_reload_temp/ # Temporary directory used by Uvicorn's auto-reload
+
+.env
